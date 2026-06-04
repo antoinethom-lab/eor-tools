@@ -1,0 +1,13 @@
+# Core scientific stack
+numpy>=1.24
+matplotlib>=3.7
+
+# Excel rate-schedule loading
+pandas>=2.0
+openpyxl>=3.1
+
+# Web app
+streamlit>=1.30
+
+# Optional — only needed to run tests
+pytest>=7.0
